@@ -2,8 +2,11 @@ Graphics Fina
 fall 2016
 
 
-r =switch to rain/fog scene s =switch to snow scene w= move forward W=move backward
-arrow keys= look around y= lower fog density
+r =switch to rain/fog scene 
+s =switch to snow scene 
+w= move forward W=move backward
+arrow keys= look around 
+y= lower fog density
 Y= lower fog density more
 t= take fog density back to default value
 H = switch off help statement
