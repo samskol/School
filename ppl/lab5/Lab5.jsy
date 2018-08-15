@@ -1,0 +1,6 @@
+var a=2
+var b=3
+var c=a+b
+jsy.print(c)
+var c=2
+jsy.print(c)
